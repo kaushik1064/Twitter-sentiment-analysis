@@ -2,7 +2,7 @@
 
 # this project is done by NLP techniques
 
-#NLP Techniques:
+# NLP Techniques:
 
 1.text preprocessing
 
@@ -11,3 +11,8 @@
 3.embedding layer(padding)
 
 4.LSTM BI-directional RNN
+
+
+# metrics used for calculating score:
+
+1.F1-SCORE
